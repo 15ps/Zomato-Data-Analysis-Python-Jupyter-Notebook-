@@ -2,10 +2,10 @@
 This project focuses on exploring and analyzing a sample Zomato restaurant dataset (CSV format) to understand customer preferences, dining habits, and rating patterns. The analysis was performed using Python in a Jupyter Notebook environment, leveraging libraries such as Pandas, Matplotlib, and Seaborn for data manipulation and visualization.
 
 🔧 Tools & Technologies Used:
-Dataset: Sample Zomato restaurant data (CSV)
-Programming Language: Python
-Environment: Jupyter Notebook
-Libraries: Pandas, Matplotlib, Seaborn
+Dataset: Sample Zomato restaurant data (CSV),
+Programming Language: Python,
+Environment: Jupyter Notebook,
+Libraries: Pandas, Matplotlib, Seaborn,
 
 📈 Key Findings:
 Dining-type restaurants are the most popular and receive the highest number of votes from customers.
